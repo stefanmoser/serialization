@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app", "app\app.csproj", "{D221FC0E-C10D-471F-94C5-F38FC8528E52}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "serialization", "serialization\serialization.csproj", "{D221FC0E-C10D-471F-94C5-F38FC8528E52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tests", "tests\tests.csproj", "{7E75D5B2-AF56-4F42-A7CE-D3D035FB6FD6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "serialization.tests", "tests\serialization.tests.csproj", "{7E75D5B2-AF56-4F42-A7CE-D3D035FB6FD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

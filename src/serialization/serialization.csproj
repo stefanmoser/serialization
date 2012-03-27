@@ -8,8 +8,8 @@
     <ProjectGuid>{D221FC0E-C10D-471F-94C5-F38FC8528E52}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>app</RootNamespace>
-    <AssemblyName>app</AssemblyName>
+    <RootNamespace>serialization</RootNamespace>
+    <AssemblyName>serialization</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

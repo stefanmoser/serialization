@@ -1,0 +1,8 @@
+*.obj
+*.pdb
+*.user
+*.suo
+*.ReSharper
+[Dd]ebug*/
+[Rr]elease*/
+_ReSharper*/
